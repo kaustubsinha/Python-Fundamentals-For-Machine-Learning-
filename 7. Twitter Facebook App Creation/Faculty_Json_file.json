@@ -1,0 +1,35 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jun 12 16:19:26 2018
+
+@author: Kaustub Sinha
+"""
+{
+    
+       {
+        "First Name":"Dr. Devesh Kumar",
+        "Last Name":"Shrivastav",
+        "Photo (Just a random url)":"www.google.com",
+        "Department":"School of Computing and It",
+        "Research Areas (can be multiple)":"Database Management System", 
+        "Contact Details (should include phone number and email id)":{"9983654545","Devesh.Shrivastav@manipal.edu.in"}
+        },
+       
+       {
+        "First Name":"Dr. Roheet Bhatnagar",
+        "Last Name":"Bhatnagar",
+        "Photo (Just a random url)":"www.google.com",
+        "Department":"School of Computing and It",
+        "Research Areas (can be multiple)":"Data Mining", 
+        "Contact Details (should include phone number and email id)":{"9983654546","Roheet.Bhatnagar@manipal.edu.in"}
+        },
+        
+       {
+        "First Name":"Dr. Jyoti",
+        "Last Name":"Grover",
+        "Photo (Just a random url)":"www.google.com",
+        "Department":"School of Computing and It",
+        "Research Areas (can be multiple)":"Data Mining", 
+        "Contact Details (should include phone number and email id)":{"9983654547","jyoti.Grover@manipal.edu.in"}
+        },
+    }
